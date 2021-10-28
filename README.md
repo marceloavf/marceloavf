@@ -1,7 +1,6 @@
 <p align="center">
-  <img width="288" height="288" src="https://user-images.githubusercontent.com/5435657/139264869-889f6ad4-20ec-4524-9af4-9536afbbe393.png">
+  <img width="180" height="180" src="https://user-images.githubusercontent.com/5435657/139265175-c016c796-5658-4b7a-9c6b-0b4c3d2c8bb1.png">
 </p>
-
 <h1 align="center">Hi 👋, I'm Marcelo Formentão</h1>
 <h3 align="center">A Front-end Developer who has a passion for UX Design and UI Development</h3>
 
