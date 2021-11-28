@@ -2,9 +2,9 @@
   <img width="180" height="180" src="https://user-images.githubusercontent.com/5435657/139265175-c016c796-5658-4b7a-9c6b-0b4c3d2c8bb1.png">
 </p>
 <h1 align="center">Hi 👋, I'm Marcelo Formentão</h1>
-<h3 align="center">A Front-end Developer who has a passion for UX Design and UI Development</h3>
+<h3 align="center" style="font-size: 22px">A Front-end Developer who has a passion for UX/UI Design</h3>
 
-<h2> :books: Learning and improving</h2>
+<h3> :books: Learning and improving</h3>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -91,7 +91,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-<h2 align="left"> 🤝 Connect with me:</h2>
+<h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marceloavf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marceloavf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marceloavf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marceloavf" height="30" width="40" /></a>
