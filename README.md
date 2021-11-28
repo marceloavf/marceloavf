@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Formentão</h1>
 <h3 align="center">A Front-end Developer who has a passion for UX Design and UI Development</h3>
 
-<h2> :books: Always learning and improving</h2>
+<h2> :books: Learning and improving</h2>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
