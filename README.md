@@ -2,7 +2,7 @@
   <img width="180" height="180" src="https://user-images.githubusercontent.com/5435657/139265175-c016c796-5658-4b7a-9c6b-0b4c3d2c8bb1.png">
 </p>
 <h1 align="center">Hi 👋, I'm Marcelo Formentão</h1>
-<h3 align="center" style="font-size: 22px">A Front-end Developer who has a passion for UX/UI Design</h3>
+<h3 align="center" style="font-size: 22px">A Software Engineer that code for passion and design for fun.</h3>
 
 <h3> :books: Learning and improving</h3>
 
