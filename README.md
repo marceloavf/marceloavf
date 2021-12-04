@@ -99,5 +99,6 @@
 <a href="https://www.behance.net/marceloavf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="marceloavf" height="30" width="40" /></a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloavf&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="marceloavf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloavf&show_icons=true&theme=dracula&locale=en" alt="marceloavf" /></p>
+<p>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=marceloavf&theme=dracula&margin-w=12&margin-h=12&no-frame=true" alt="amandahp points"/></p>
