@@ -100,9 +100,9 @@
 </p>
 
 <p align="left">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=marceloavf&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="marceloavf" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=marceloavf&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="marceloavf" />
   &nbsp;
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=marceloavf&theme=dracula&hide_border=true" alt="marceloavf"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=marceloavf&theme=dracula&hide_border=true" alt="marceloavf"/>
 </p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=marceloavf&theme=dracula&margin-w=12&margin-h=12&no-frame=true" alt="marceloavf"/></p>
