@@ -101,4 +101,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloavf&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="marceloavf" /></p>
 
-<p>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=marceloavf&theme=dracula&margin-w=12&margin-h=12&no-frame=true" alt="amandahp points"/></p>
+<p>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=marceloavf&theme=dracula&margin-w=12&margin-h=12&no-frame=true" alt="marceloavf"/></p>
+
+<p>&nbsp;<img src="https://komarev.com/ghpvc/?username=marceloavf&style=flat-square&color=blueviolet" alt="marceloavf"/></p>
