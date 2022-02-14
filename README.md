@@ -4,7 +4,10 @@
 <h1 align="center">Hi 👋, I'm Marcelo Formentão</h1>
 <h3 align="center" style="font-size: 22px">A Software Engineer that code for passion and design for fun.</h3>
 
-<h3> :books: Learning and improving</h3>
+<hr/>
+
+<details><summary>:books: Learning and improving 👈</summary>
+<p>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -89,6 +92,8 @@
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+</p>
+</details>
 
 <h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
